@@ -51,8 +51,8 @@ This helped me write cleaner code without loops and improve my logic-building sk
 
 ## 🚀 Author
 
-Made with 💻 by [Your Name]  
-Follow me on [LinkedIn](https://www.linkedin.com)
+Made with 💻 
+Follow me on [LinkedIn](https://www.linkedin.com/in/omborse07/)
 
 ---
 
